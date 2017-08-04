@@ -3,7 +3,7 @@
     "name": "Home Assistant",
     "username": "CC:22:3D:E3:CE:38",
     "port": 51826,
-    "pin": "031-45-154"
+    "pin": "033-45-154"
   },
   "description": "Homebridge for Home Assistant",
   "accessories": [],
