@@ -10,4 +10,6 @@ COPY homebridge-base-config.json /etc/
 COPY run.sh /
 RUN chmod a+x /run.sh
 
+EXPOSE 51826
+
 CMD [ "/run.sh" ]
