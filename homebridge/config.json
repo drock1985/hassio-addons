@@ -3,7 +3,7 @@
   "version": "0.2",
   "slug": "homebridge",
   "description": "HomeKit support",
-  "url": "https://github.com/olivierguerriat/hassio-addons",
+  "url": "https://github.com/drock1985/hassio-addons",
   "image": "olivierguerriat/hassio-addon-homebridge-{arch}",
   "startup": "after",
   "boot": "auto",
@@ -15,4 +15,3 @@
   },
   "map": ["config:rw"],
   "host_network": true
-}
